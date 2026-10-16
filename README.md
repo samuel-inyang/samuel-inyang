@@ -1,16 +1,16 @@
 <h1 align="center">Samuel Inyang</h1>
 
-<p align="center">T Level Digital Software Development student · Weston-super-Mare</p>
+<p align="center">T Level Digital Software Development student · Weston College</p>
 
 ---
 
 <h2 align="center">About Me</h2>
 
 - Studying a T Level in Digital Software Development at Weston College, finishing in 2027
-- Spent six months on placement with the Inbound data team at Lloyds Banking Group, rebuilding a data pipeline in Python and pandas
+- Spent six months on placement with the Inbound data team at Lloyds Banking Group.
 - Interested in data, finance and software development
 - Looking for a degree apprenticeship starting in 2027
-- Away from the keyboard: the gym, and making videos for my own YouTube channels
+- Away from the keyboard: the gym, Exploring AI tools.
 
 <h2 align="center">Technologies I have worked with</h2>
 
